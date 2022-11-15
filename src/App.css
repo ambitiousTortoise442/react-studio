@@ -4,6 +4,17 @@
 
 }
 
+.Bakery {
+    display: flex;
+    flex-direction: column;
+}
+
+.Bakery img {
+    height: 200px;
+    width: 200px;
+}
+
 .BakeryItem {
-  
+    display: flex;
+    flex-direction: row;
 }
